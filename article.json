@@ -1,0 +1,8 @@
+{
+  "title": "Managing file system paths",
+  "description": "How to manage file system paths using the `path` module",
+  "date": "Fri Aug 26 2011 03:08:50 GMT-0700 (PST)",
+  "tags": ["core", "filesystem"],
+  "authors": ["Nico Reed"],
+  "difficulty": 1
+}
